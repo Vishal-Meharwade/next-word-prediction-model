@@ -28,9 +28,6 @@ pip install tensorflow numpy
 
 python next_word_prediction.py
 
-seed_text = "the quick brown"
-predicted_word = predict_next_word(seed_text, model, tokenizer, vocab_size)
-
 
 
 
