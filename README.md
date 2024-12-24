@@ -9,10 +9,7 @@ The research paper, *“WordAhead: Next Word Prediction Engine,”* based on thi
 
 ---
 
-**Certificate of Publication:**  
-![Vishal Meharwade](https://github.com/user-attachments/assets/0863271b-9bf9-4f1e-b768-8bc5c27e7037)
 
----
 
 ## ✨ Features
 
@@ -32,6 +29,11 @@ This project includes:
 
 - **Model Checkpointing**:  
   Saves the best-performing model automatically based on training loss, ensuring reliable results.
+
+---
+
+**Certificate of Publication:**  
+![Vishal Meharwade](https://github.com/user-attachments/assets/0863271b-9bf9-4f1e-b768-8bc5c27e7037)
 
 ---
 
